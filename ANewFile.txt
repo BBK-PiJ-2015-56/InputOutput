@@ -1,0 +1,6 @@
+This is a test file.I want all three lines to be copied.This is the final line.
+
+
+//It is not copying it onto 3 lines.
+
+//Q) What was the other file that it sometimes create at the same time????
